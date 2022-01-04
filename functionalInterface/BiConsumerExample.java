@@ -39,7 +39,5 @@ public class BiConsumerExample {
 
         nameAndActivities();
 
-        int n = (int) (Math.log10(123) + 1);
-        System.out.println(n);
     }
 }
